@@ -5,7 +5,7 @@ html {
 }
 
 h1 {
-  font-weight: Normal;
+  font-weight: bold;
   font-size: 50px;
   color: White;
 }
@@ -15,7 +15,7 @@ h2 {
   color: White;
 }
 
-h3 {
+.exc {
   font-size: 21px;
   color: Gray;
 }
