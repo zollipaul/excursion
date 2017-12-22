@@ -1,5 +1,5 @@
 html {
-  text-align: center;
+  text-align: Center;
   background-color: black;
   font-family: Verdana;
 }
@@ -28,4 +28,5 @@ h3 {
 .copyright {
   text-align: right;
   color: Gray;
+  font-size: 21px;
 }
